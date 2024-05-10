@@ -19,7 +19,7 @@ Shows information about the movie like its name, photo, plot, etc.
 Display a list of all the favourite movies.
 Remove from favourites button: Each movie have remove from favourites button, clicking on which removes that movie from the list
 
-###### Live link: 
+###### Live link: https://sachinnisad.github.io/IMDB_Clone/
 
 ## Preview
 ###### LAPTOP AND TABLET SCREEN VIEW
